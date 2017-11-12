@@ -1,2 +1,2 @@
-# deep_learing_project
+# deep_learning_project
 project resources and codes
